@@ -1,0 +1,32 @@
+body
+{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0%;
+    padding: 0%;
+}
+#cabecera
+{
+    background-color: gray;
+    box-shadow: 0px 2px 50 px 0 px rgba(0,0,0,0.75) green, blue, alpha;
+    color: rgb(40, 145, 238);
+    font-weight: bold;
+    margin: 0px;
+    padding: 0.5em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+
+    text-align: left;
+    border: 1px solid;
+    margin: auto;
+}
+#container h1
+{
+    font-size: 20px;
+}
